@@ -1,4 +1,4 @@
-# Lab8Web.
+# Praktikum 8: PHP dan Database MySQL
 
 **Menambahkan Data**
 - CREATE DATABASE membuat wadah data.
